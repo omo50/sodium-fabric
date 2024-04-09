@@ -1,6 +1,6 @@
 <img src="src/main/resources/assets/sodium/icon.png" width="128">
 
-# Sodium (for Fabric)
+# Sodium
 
 Sodium is a powerful rendering engine and optimization mod for the Minecraft client which improves frame rates and reduces
 micro-stutter, while fixing many graphical issues in Minecraft.
@@ -8,7 +8,7 @@ micro-stutter, while fixing many graphical issues in Minecraft.
 ### 📥 Installation
 
 The latest releases of Sodium are published to our official [Modrinth](https://modrinth.com/mod/sodium) and
-[GitHub release](https://github.com/CaffeineMC/sodium-fabric/releases) pages. These releases are considered by our
+[Curseforge](https://www.curseforge.com/minecraft/mc-mods/sodium) pages. These releases are considered by our
 team to be suitable for general use, but they are not guaranteed to be free of bugs and other issues.
 
 For more information about downloading and installing the mod, you can read our installation guide on
